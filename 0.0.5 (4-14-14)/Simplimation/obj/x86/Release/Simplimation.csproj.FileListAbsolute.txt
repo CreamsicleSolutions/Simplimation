@@ -1,0 +1,13 @@
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\bin\Release\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\bin\Release\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\MainWindow.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Window1.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\MainWindow.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\App.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation.g.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Release\Simplimation.pdb
