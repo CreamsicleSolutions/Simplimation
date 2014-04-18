@@ -49,3 +49,5 @@ C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86
 C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
 C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
 C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Scott\Source\Repos\Simplimation\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Scott\Source\Repos\Simplimation\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.pdb

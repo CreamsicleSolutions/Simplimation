@@ -14,6 +14,29 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using System.ComponentModel;
 using System.IO;
+using AviFile;
+using AForge.Video.VFW;
+
+/*
+ * 'Image' is an ambiguous reference between 'System.Windows.Controls.Image' and 'System.Drawing.Image'
+ * 
+ * The rest of the program uses System.Windows.Control.Image while I can only load System.Drawing.Bitmaps into the AviWriter.  BitmapImage can be converted to Bitmap 
+ * However The 'Image' doesnt know which namespace to reference.  
+ * 
+ * Options:
+ * 
+ * 1. I need the Drawing namespace to convert the bitmaps so if there is a way to use System.Drawing.Image for the program and remove System.Windows.Controls.Image
+ * then we should do that.
+ * 
+ * 2. You can try to find a way to directing ref each i.e. List<System.Drawing.Image> however I have been trying this and have been unsuccessful.  
+ * 
+ * Other than this it should work.
+ * 
+    conflicting namespaces:
+    using System.Drawing;
+    using System.Drawing.Imaging;
+ */
+ 
 
 namespace Simplimation
 {
@@ -40,6 +63,14 @@ namespace Simplimation
         Grid frame;
         private DispatcherTimer dispatcherTimer = new DispatcherTimer();
         private List<Image> cinsel = new List<Image>();
+
+        // private variables for Avi
+        private List<double> stamps = new List<double>();
+        private List<BitmapImage> bitmaps = new List<BitmapImage>();
+        private double min;
+        private int height = 240;
+        private int width = 320;
+        private String filename = "new_video.avi";
         
         public MainWindow()
         {
@@ -794,6 +825,65 @@ namespace Simplimation
 
         }
 
+        private void AviConvert_Click(object sender, RoutedEventArgs e)
+        {
+            /* AForge video writer */
+
+            /* //
+            // create AviWriter class object
+            AVIWriter writer = new AVIWriter("wmv3");
+            //int numVal = Convert.ToInt32(textBox1.Text);
+            //writer.FrameRate = 1;
+            writer.Open("new_movie.avi", width, height);
+
+            
+            // populate avi frames with bitmap list
+            for(int i = 0; i < proj.working.Count; i++)
+            {
+                writer.AddFrame(bitmaps[i]); 
+            }
+
+            writer.AddFrame(bitmaps[0]);
+            //writer.FrameRate = 25;
+
+            writer.AddFrame(bitmaps[1]);
+            writer.AddFrame(bitmaps[2]);
+
+            writer.Close();
+             // */
+
+            for (int i = 0; i < proj.working.Count; i++)
+            {
+                stamps.Add((((double)proj.working[i].delay) / 1000.00));
+                string FileName = proj.working[i].src;
+                BitmapImage bitmap = new BitmapImage(new Uri(FileName));
+                bitmaps.Add(bitmap);
+            }
+
+            min = stamps.Min();
+
+
+            /* AviFile video writer */
+            // this is not a problem for I can convert BitmapImage to Bitmap
+            AviManager aviManager = new AviManager(filename, false);
+            VideoStream aviStream = aviManager.AddVideoStream(false, min, bitmaps[0]);
+
+            
+            for (int i = 0; i < proj.working.Count; i++)
+            {
+
+                for (double j = min; j < proj.working[i].delay; )
+                {
+                    aviStream.AddFrame(bitmaps[i]);
+                    j = j + min;
+                }
+            }
+
+            aviManager.Close();
+            stamps.Clear();
+             
+        }
+
         private void About_Click(object sender, RoutedEventArgs e)
 
             /*
@@ -924,6 +1014,11 @@ namespace Simplimation
         }
 
         private void DelayDef_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void F_Menu_Click(object sender, RoutedEventArgs e)
         {
 
         }

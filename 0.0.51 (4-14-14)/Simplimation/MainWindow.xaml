@@ -41,7 +41,7 @@
         <Image Height="96" HorizontalAlignment="Left" Margin="10,160,0,0" x:Name="Add_it" VerticalAlignment="Top" Width="96" MouseLeftButtonDown="Add_Click" Source="/Simplimation;component/graphics/new_image.png" MouseEnter="Add_it_MouseEnter" MouseLeave="Add_it_MouseLeave" ToolTip="Add Image to Storyboard" />
         <Image Height="96" HorizontalAlignment="Left" Margin="111,160,0,0" x:Name="rem" Source="/Simplimation;component/graphics/rem.png" VerticalAlignment="Top" Width="96" MouseEnter="rem_it_MouseEnter" MouseLeave="rem_it_MouseLeave" MouseLeftButtonDown="rem_MouseLeftButtonDown" MouseDown="rem_MouseLeftButtonDown" ToolTip="Remove Selected Image" />
         <Menu Height="20" Margin="0,0,-238,0" x:Name="MainMenu" VerticalAlignment="Top" MinWidth="1920" Width="1920" VerticalContentAlignment="Top" HorizontalAlignment="Left">
-            <MenuItem Header="File" x:Name="F_Menu">
+            <MenuItem Header="File" x:Name="F_Menu" Click="F_Menu_Click">
                 <MenuItem Header="New Project" Click="New_Click"/>
                 <MenuItem Header="Open Project..." x:Name="open" Click="open_Click"/>
                 <MenuItem Header="Save Project" x:Name="save" Click="Save_Click"/>
@@ -73,7 +73,7 @@
         <Image Height="96" HorizontalAlignment="Left" Margin="10,51,0,0" x:Name="new_docu" VerticalAlignment="Top" Width="96" MouseLeftButtonDown="New_Click" Source="graphics/new_docu.png" MouseEnter="new_docu_MouseEnter" MouseLeave="new_docu_MouseLeave" ToolTip="New Project" />
         <Image Height="96" HorizontalAlignment="Left" Margin="111,51,0,0" x:Name="Open_proj" VerticalAlignment="Top" Width="96" MouseLeftButtonDown="open_Click" Source="graphics/open_docu.png" MouseEnter="Open_proj_MouseEnter" MouseLeave="Open_proj_MouseLeave" ToolTip="Open Project" />
         <Image Height="96" HorizontalAlignment="Left" Margin="212,51,0,0" x:Name="Save_proj" VerticalAlignment="Top" Width="96" MouseLeftButtonDown="Save_Click" Source="graphics/save_docu.png" MouseEnter="Save_proj_MouseEnter" MouseLeave="Save_proj_MouseLeave" ToolTip="Save Project As..." />
-        <Image Height="96" HorizontalAlignment="Left" Margin="313,51,0,0" x:Name="AVI_exp" VerticalAlignment="Top" Width="96"  Source="graphics/save_avi.png" MouseLeave="Add_it_MouseLeave" ToolTip="Produce .AVI video" />
+        <Image Height="96" HorizontalAlignment="Left" Margin="313,51,0,0" x:Name="AVI_exp" VerticalAlignment="Top" Width="96" MouseLeftButtonDown="AviConvert_Click" Source="graphics/save_avi.png" MouseLeave="Add_it_MouseLeave" ToolTip="Produce .AVI video" />
         <Label Content="Settings" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="DelayDef" Height="18" VerticalAlignment="Top" Margin="99,265,0,0" Text="100" TextAlignment="Center" TextChanged="DelayDef_TextChanged" HorizontalAlignment="Left" Width="48"/>
         <Label Content="Default Delay:" HorizontalAlignment="Left" Margin="10,261,0,0" VerticalAlignment="Top"/>
