@@ -1,0 +1,16 @@
+﻿<Window x:Class="Simplimation.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About Team" Height="299" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Margin="0,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TextAlignment="Center" Height="64"><Run Text="Christopher Smith: Lead Designer, Programmer"/><LineBreak/><Run Text="Scott Brown: Programmer, Documentation Editor"/><LineBreak/><Run Text="Brandon Craven: Programmer, Tester"/><LineBreak/><Run Text="Gretchen Betancourt: Tester, Documentation Editor"/></TextBlock>
+        <TextBlock Margin="0,18,0,0" TextWrapping="Wrap" Text="Simplimation v0.0.4" VerticalAlignment="Top" TextAlignment="Center" FontWeight="Bold" Height="16"/>
+        <TextBlock Margin="0,161,0,0" TextWrapping="Wrap" Text="Team Members" VerticalAlignment="Top" TextAlignment="Center" FontWeight="Bold" Height="16"/>
+        <TextBlock Margin="12,40,11,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Text="Simplimation is a simple animation creator that takes a series of images, or images one by one, as input. Users then set a time delay for each image. The series of images can then be played back as a simple animation with the set delay. Users have the ability to save their animations as a .avi file" Height="112"/>
+
+    </Grid>
+</Window>
