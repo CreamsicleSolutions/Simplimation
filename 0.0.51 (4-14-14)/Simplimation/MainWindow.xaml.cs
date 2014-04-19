@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using System.ComponentModel;
 using System.IO;
-using AviWriter;
+//using AviWriter;
 
 
 /*

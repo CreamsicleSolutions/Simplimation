@@ -18,8 +18,8 @@ namespace Simplimation
         private List<double> del = new List<double>();
         private List<Bitmap> bitmaps = new List<Bitmap>();
         private double min;
-        private int height = 240;
-        private int width = 320;
+        private int height = 360;
+        private int width = 720;
 
         // constructor
         public AviWriter(List<frame> Frame, String filename)
