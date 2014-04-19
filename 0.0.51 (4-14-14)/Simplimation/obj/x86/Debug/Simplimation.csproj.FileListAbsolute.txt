@@ -67,7 +67,6 @@ C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\D
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.pdb
-C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.baml
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Window1.baml
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
@@ -93,3 +92,6 @@ C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe.config
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviFile.dll
 C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviFile.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviWriter.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviWriter.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache

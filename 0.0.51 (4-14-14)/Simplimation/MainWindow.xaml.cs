@@ -14,8 +14,8 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using System.ComponentModel;
 using System.IO;
-using AviFile;
-using AForge.Video.VFW;
+using AviWriter;
+
 
 /*
  * 'Image' is an ambiguous reference between 'System.Windows.Controls.Image' and 'System.Drawing.Image'
@@ -63,14 +63,6 @@ namespace Simplimation
         Grid frame;
         private DispatcherTimer dispatcherTimer = new DispatcherTimer();
         private List<Image> cinsel = new List<Image>();
-
-        // private variables for Avi
-        private List<double> stamps = new List<double>();
-        private List<BitmapImage> bitmaps = new List<BitmapImage>();
-        private double min;
-        private int height = 240;
-        private int width = 320;
-        private String filename = "new_video.avi";
         
         public MainWindow()
         {
@@ -852,35 +844,8 @@ namespace Simplimation
             writer.Close();
              // */
 
-            for (int i = 0; i < proj.working.Count; i++)
-            {
-                stamps.Add((((double)proj.working[i].delay) / 1000.00));
-                string FileName = proj.working[i].src;
-                BitmapImage bitmap = new BitmapImage(new Uri(FileName));
-                bitmaps.Add(bitmap);
-            }
+            AviWriter aviwriter = new AviWriter(proj.working, "test.avi");
 
-            min = stamps.Min();
-
-
-            /* AviFile video writer */
-            // this is not a problem for I can convert BitmapImage to Bitmap
-            AviManager aviManager = new AviManager(filename, false);
-            VideoStream aviStream = aviManager.AddVideoStream(false, min, bitmaps[0]);
-
-            
-            for (int i = 0; i < proj.working.Count; i++)
-            {
-
-                for (double j = min; j < proj.working[i].delay; )
-                {
-                    aviStream.AddFrame(bitmaps[i]);
-                    j = j + min;
-                }
-            }
-
-            aviManager.Close();
-            stamps.Clear();
              
         }
 
