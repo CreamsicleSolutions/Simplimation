@@ -1,0 +1,170 @@
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\bin\Debug\Simplimation.exe
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\bin\Debug\Simplimation.pdb
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\App.g.cs
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.g.resources
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.exe
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.pdb
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\MainWindow.baml
+c:\users\sunshine\documents\visual studio 2010\Projects\Simplimation\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Sunshine\SkyDrive\Projects\Simplimation\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Brandon\Downloads\Simplimation-master\Simplimation-master\0.0.3 (4-3-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.4 (4-4-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\Source\Repos\Simplimation2\0.0.5 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Controls.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Vision.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Math.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe.config
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviFile.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviFile.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviWriter.dll
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviWriter.pdb
+C:\Users\Scott\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe.config
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AviWriter.cs
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Controls.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Math.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Vision.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\bin\Debug\AForge.Vision.xml
+C:\Users\Sunshine\Source\Repos\Simplimation\0.0.51 (4-14-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\Simplimation.exe.config
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AviWriter.cs
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\Simplimation.exe
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\Simplimation.pdb
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Controls.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Imaging.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Math.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Vision.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Vision.xml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.csprojResolveAssemblyReference.cache
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Window1.baml
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Window1.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\App.g.cs
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation_MarkupCompile.cache
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.g.resources
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.Properties.Resources.resources
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\obj\x86\Debug\Simplimation.csproj.GenerateResource.Cache
+C:\Users\Sunshine\Source\Repos\Simplimation5\0.0.6 (4-19-14)\Simplimation\bin\Debug\AForge.Video.xml
